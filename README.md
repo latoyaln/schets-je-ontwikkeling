@@ -1,8 +1,6 @@
-> _Fork_ deze deeltaak en ga aan de slag. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+
 
 # Naam deeltaak
+Schets je ontwikkeling 
 
-## Licentie
-
-This project is licensed under the terms of the [MIT license](./LICENSE).
+!![Latoya’s Moontrip.pdf](https://github.com/latoyaln/schets-je-ontwikkeling/files/13224495/Latoya.s.Moontrip.pdf)
